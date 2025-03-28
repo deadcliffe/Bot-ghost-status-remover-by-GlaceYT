@@ -79,7 +79,7 @@ client.once('ready', () => {
   heartbeat();
 });
 
-login(TOKEN);
+login();
 
   
 /*
